@@ -1,9 +1,8 @@
 # Braco Robótico
 
-Este projeto é uma simulação 3D de um braço robótico, 
-desenvolvido para obtenção de nota referente a disciplina Computação Gráfica(DCA0114) 2014.2,
-Este modelo foi construido baseando-se nos parâmetros de Denavit-Hartenberg(http://en.wikipedia.org/wiki/Denavit%E2%80%93Hartenberg_parameters), os arquivos Matriz.h, Vector.h e Spacefunc.h(Original:Mathlib.h) foram incluidos para calculos referente
-ao ângulos de rotação das formas;
+Este projeto é uma simulação 3D de um braço robótico, desenvolvido para obtenção de nota referente a disciplina Computação Gráfica(DCA0114) 2014.2.
+
+Este modelo foi construido baseando-se nos parâmetros de Denavit-Hartenberg
 
 ## Dependencias
 * Open_GL
