@@ -12,7 +12,7 @@ Este modelo foi construido baseando-se nos parâmetros de Denavit-Hartenberg
 
 ## Como compilar
 
-##Linux
+## Linux
 
 - Terminal(crtl+alt+t)
 user@vehicle:~/diretorio$ g++ main.cpp -o EXE -lGL -lGLU -lglut
@@ -22,7 +22,7 @@ user@vehicle:~/diretorio$ g++ main.cpp -o EXE -lGL -lGLU -lglut
 - Terminal(crtl+alt+t)
 user@vehicle:~/diretorio$ ./EXE
 
-##Controles do braço e da câmera
+## Controles do braço e da câmera
 
 Nesse projeto você pode utilizar os seguintes comandos para controlar o Braço:
 
